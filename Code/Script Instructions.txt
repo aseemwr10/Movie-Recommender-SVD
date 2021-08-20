@@ -1,0 +1,4 @@
+- We have used a github library in our code - https://github.com/mayukh18/reco
+- However, as this library was old, we had to modify a few modules to run our code - svd_updated2.py and utils.py
+- We have included these updated py files along with our main code
+- Keep the svd_updated2.py and utils.py files in the same folder as the main ipynb code
